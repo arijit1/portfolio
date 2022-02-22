@@ -1,0 +1,91 @@
+.jumbotron {
+    background-color: rgb(5, 11, 63);
+    color: white;
+    padding: 4px;
+    margin-left: 180px;
+}
+
+.card{
+    width: 18rem;
+    margin: 5px;
+}
+
+
+.projects > .row {
+  border: 2px solid rgb(3, 24, 80);
+}
+
+.projects >.card{
+  background-color: rgb(5, 11, 63);
+  color: white;
+  height: 10rem;
+  }
+  @media (min-width: 991.98px) {
+    .projects >.card{
+        background-color: rgb(5, 11, 63);
+        position: relative;
+        animation-name: project;
+        animation-duration: 1.60s;
+        animation-iteration-count: 1;
+        animation-direction: alternate;  
+        color: white;
+      }
+      .projects > .row {
+        border: 2px solid rgb(3, 24, 80);
+        margin-left: 180px;
+        margin-top: 10px;
+    }
+  }
+  @keyframes project {
+    0%   {left:2000px; top:0px;}
+    100%  {left:0px; top:0px;}
+  }
+
+  .aboutMe{
+      margin-top: 100px;
+      padding: 0;
+      text-align:center;
+      font-size: large;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: rgb(5, 11, 63);;
+  }
+
+  .Education-page >  .card{
+    border: 1px solid rgba(255, 166, 0, 0.767);
+    width: 50rem;
+    margin: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .footer{
+    padding: 10px;
+    float: right;
+  }
+
+ .footer-text{
+   color: black;
+   font-size: 2rem;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bolder;
+ }
+
+.techstack-icons {
+  margin-top: 5rem;
+  color: red;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.288), 0 2px 10px 0 rgb(0 0 0 / 12%);
+  text-align: center;
+  
+}
+.techstack-icons > .fab{
+  margin: 50px;
+}
+
+.techstack>ul{
+  text-align: justify;
+}
+
+.techstack{
+  margin-top: 5rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.288), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
