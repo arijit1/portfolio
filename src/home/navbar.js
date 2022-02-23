@@ -21,7 +21,7 @@ function Navbar() {
                             loading="lazy"
                         />
                          <div className="list-group-item" >
-                           <p style={{'margin-left':'2rem'}}>DEVELOPER</p>
+                           <p style={{'marginLeft':'2rem'}}>DEVELOPER</p>
                         </div>
                         <div className="list-group-item list-group-item-action py-2 ripple" >
                             <NavLink className="nav-link" to="/about-me">About Me</NavLink>
