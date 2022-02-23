@@ -1,5 +1,4 @@
 import './home.css';
-import  {GoMarkGithub}  from 'react-icons/go';
 import {   FaNodeJs ,FaPython , FaHtml5 ,FaJs,FaReact ,FaCss3Alt, FaCode ,FaCodeBranch} from "react-icons/fa";
 
 

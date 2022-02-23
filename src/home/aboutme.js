@@ -7,19 +7,17 @@ I have been working as a developer in an Organisation.
 I have done remote work for Friends , Family and Private Startups.
 Collaborated with talented people to create products for both business and personal use.
 `
-
+const greetingText =   `Hi, I’m Arijit!! Nice to meet you...`;
 export const AboutMe = () => {
     return (
         <>
             <Home />
             <div className="container aboutMe">
                 <div className="row ">
-                    <div className="col-sm-4">
+                    <div className="col-sm-3">
                     </div>
-                    <div className="col-sm-8">
-                        <h3>
-                            Hi, I’m Arijit!! Nice to meet you.
-                        </h3>
+                    <div className="col-sm-9">
+                        <h1 className="greetText">{greetingText}</h1>
                         <p>{aboutMe}</p>
                     </div>
                 </div>
@@ -40,7 +38,7 @@ export const AboutMe = () => {
                         <div className="footer">
                             <svg xmlns="http://www.w3.org/2000/svg" width="100px" height="100px" fill="blue" class="bi bi-people-fill" viewBox="0 0 16 16">
                                 <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-                                <path fill-rule="evenodd" d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z" />
+                                <path fill="evenodd" d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z" />
                                 <path d="M4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z" />
                             </svg>
                             <span className="footer-text"> Collaboration</span>
