@@ -1,4 +1,7 @@
 import './home.css';
+import  {GoMarkGithub}  from 'react-icons/go';
+import {   FaNodeJs ,FaPython , FaHtml5 ,FaJs,FaReact ,FaCss3Alt, FaCode ,FaCodeBranch} from "react-icons/fa";
+
 
 export const Technology = () => {
     return (
@@ -8,10 +11,31 @@ export const Technology = () => {
                     <div className="col-sm-2"></div>
                     <div className="col-sm-8 ">
                         <div className="techstack-icons">
-                            <a href="https://github.com/arijit1" ><i className="fab fa-github" style={{ "font-size": "88px", "color": "black" }}></i> </a>
-                            <i className='fab fa-react' style={{ 'font-size': '88px', 'color': 'skyblue' }}></i>
-                            <i className='fab fa-java' style={{ 'font-size': '88px', 'color': 'brown' }}></i>
-                            <i className='fab fa-python' style={{ 'font-size': '88px' }}></i>
+                            <a href="https://github.com/arijit1" className='techstack-icon-github'  style={{ 'font-size': '88px' }}>
+                                
+                                {<FaCodeBranch/>}
+                            </a>
+                            <i style={{ 'font-size': '88px','color':'orange' }}>
+                                <FaCode/>
+                            </i>
+                            <i style={{ 'font-size': '88px','color':'skyblue' }}>
+                                <FaReact/>
+                            </i>
+                            <i  style={{ 'font-size': '88px', 'color':'green' }}>
+                                <FaNodeJs/>
+                            </i>
+                            <i  style={{ 'font-size': '88px' , 'color':'blue'}}>
+                                <FaPython/>
+                            </i>
+                            <i  style={{ 'font-size': '88px', 'color':'grey' }}>
+                                <FaHtml5/>
+                            </i>
+                            <i  style={{ 'font-size': '88px' }}>
+                                <FaJs/>
+                            </i>
+                            <i  style={{ 'font-size': '88px', 'color':'purple'  }}>
+                                <FaCss3Alt/>
+                            </i>
                         </div>
                         <div className="techstack">
                             <ul>

@@ -79,6 +79,9 @@
 .techstack-icons > .fab{
   margin: 50px;
 }
+.techstack-icons>i :hover{
+  font-size: 90px;
+}
 
 .techstack>ul{
   text-align: justify;

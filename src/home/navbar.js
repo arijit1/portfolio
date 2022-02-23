@@ -40,7 +40,7 @@ function Navbar() {
             </nav>
             
           <Routes>
-              <Route to="/" element={<AboutMe />} />
+              <Route exact path="/" element={<AboutMe />} />
               <Route path="/projects" element={<Skills />} />
               <Route path="/about-me" element={<AboutMe />} />
               <Route path="/experience" element={<Education/>}/>
