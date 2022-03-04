@@ -24,13 +24,14 @@ export function Education() {
                                 </svg> January-2020 - Present</p>
                                 <div className="card-text">
                                     <ul>
-                                        <li>Contractor to American Express as a Frontend(React) Developer. Directly work with market to understand the requirement and implement.</li>
+                                        <li>Full Stack Developer</li>
+                                        {/* <li>Contractor to American Express as a Frontend(React) Developer. Directly work with market to understand the requirement and implement.</li>
                                         <li>Contributed working on new product launches for American Express UK market.</li>
                                         <li>Build the Frontend of the application with React framework.</li>
                                         <li>Collaborated with other team, to understand the existing implementation.</li>
                                         <li>Worked for SNR(Save and Retrieve) services for American Express Cards.</li>
                                         <li>Worked with marketing teams to build there campaign in Application using React Tech.</li>
-                                        <li>Contribute on Architect planning and participate on sprint planning.</li>
+                                        <li>Contribute on Architect planning and participate on sprint planning.</li> */}
                                     </ul>
                                 </div>
                             </div>
