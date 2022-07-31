@@ -25,6 +25,11 @@ export function Education() {
                                 <div className="card-text">
                                     <ul>
                                         <li>Full Stack Developer</li>
+                                        <li>Implement New Product Launches Using React Framework and Redux State Management Library. And maintain backend flow using Node.js.</li>
+                                        <li>Executed Node 16 Migration from Node 12 version.</li>
+                                        <li>Maintain code quality by writing unit test cases using Jest. Cross Communication with different dependent teams.</li>
+                                        <li>Write Automation Scripts using Gherkin Language and XPaths.</li>
+                                        <li>Sound Understanding of CI/CD Pipeline and Jenkin Jobs with XLR templates.</li>
                                         {/* <li>Contractor to American Express as a Frontend(React) Developer. Directly work with market to understand the requirement and implement.</li>
                                         <li>Contributed working on new product launches for American Express UK market.</li>
                                         <li>Build the Frontend of the application with React framework.</li>
@@ -59,7 +64,7 @@ export function Education() {
                         </div>
                         <div className="card">
                             <div className="card-body">
-                                <h2 className="card-title">Certified Training on BIG DATA- Linker Computers Pvt. Ltd.<img alt='logo' style={{ 'float': 'right' }} src={softSuaveLogo} width="100px" height="100px" /></h2>
+                                <h2 className="card-title">Certified Training on BIG DATA- Linker Computers Pvt. Ltd.</h2>
                                 <p className="card-text"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-calendar3" viewBox="0 0 16 16">
                                     <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z" />
                                     <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
@@ -76,7 +81,7 @@ export function Education() {
                         </div>
                         <div className="card">
                             <div className="card-body">
-                                <h2 className="card-title">Training on Embedded System. <img alt='logo' style={{ 'float': 'right' }} src={softSuaveLogo} width="100px" height="100px" /></h2>
+                                <h2 className="card-title">Training on Embedded System. </h2>
                                 <p className="card-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-calendar3" viewBox="0 0 16 16">
                                     <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z" />
                                     <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />

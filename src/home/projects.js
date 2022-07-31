@@ -26,7 +26,7 @@ export const Skills = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">DETECTING FAKE NEWS</h5>
-                                <p className="card-text">Using sk-learn, pandas, numpy - Python</p>
+                                <p className="card-text">By Using ML- Random Forest Algorithm Predicted Fake News On Social Media</p>
                             </div>
                         </div>
                     </div>
@@ -42,7 +42,7 @@ export const Skills = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">5G HACKATHON</h5>
-                                <p className="card-text">Build cloud based application which can communicate over 5G using Python and React Frontend (Client Side).
+                                <p className="card-text">Build cloud based application which can communicate over 5G network using Python and React Frontend (Client Side).Included Machine Learning Services.
                                 </p>
                             </div>
                         </div>
