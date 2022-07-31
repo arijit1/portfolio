@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d6deffc8.css",
-    "main.js": "/portfolio/static/js/main.58d3c3a8.js",
+    "main.css": "/portfolio/static/css/main.d6e03200.css",
+    "main.js": "/portfolio/static/js/main.874500ee.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/kiitLogo.png": "/portfolio/static/media/kiitLogo.4782fc8aaf302beccccf.png",
     "static/media/profilePic.png": "/portfolio/static/media/profilePic.28448cc94297ecaf87c5.png",
     "static/media/cognizantLogo.png": "/portfolio/static/media/cognizantLogo.7347ef0d95d8820022ce.png",
     "static/media/softSuaveLogo.png": "/portfolio/static/media/softSuaveLogo.067e7307bde2091d06a2.png",
     "index.html": "/portfolio/index.html",
-    "main.d6deffc8.css.map": "/portfolio/static/css/main.d6deffc8.css.map",
-    "main.58d3c3a8.js.map": "/portfolio/static/js/main.58d3c3a8.js.map",
+    "main.d6e03200.css.map": "/portfolio/static/css/main.d6e03200.css.map",
+    "main.874500ee.js.map": "/portfolio/static/js/main.874500ee.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6deffc8.css",
-    "static/js/main.58d3c3a8.js"
+    "static/css/main.d6e03200.css",
+    "static/js/main.874500ee.js"
   ]
 }
