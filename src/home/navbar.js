@@ -7,6 +7,7 @@ import { Technology } from '../home/techStack';
 import { Education } from '../home/education';
 import { Services } from '../home/services';
 import profilePicture from './profile.jpeg';
+import { FaMailBulk } from "react-icons/fa";
 
 function Navbar() {
     return (
@@ -31,12 +32,13 @@ function Navbar() {
                             <li class="nav-item"><NavLink className="nav-link" to="/projects">Projects</NavLink></li>
                             <li class="nav-item"><NavLink className="nav-link" to="/tech-stack">Tech Stack</NavLink></li>
                         </ul>
-                        <button type="button" class="rounded-pill btn-rounded">
-                            <a class="button" href="mailto:sengupta.arijit84@gmail.com">sengupta.arijit84@gmail.com</a>
-                            <span>
-                                <i class="fas fa-phone-alt"></i>
-                            </span>
-                        </button>
+                        <span className="contactMe">
+                            <a class="button" href="mailto:sengupta.arijit84@gmail.com">
+                                <i style={{ 'font-size': '88px', 'color': 'red' }}>
+                                    <FaMailBulk />
+                                </i>
+                            </a>
+                        </span>
                     </div>
                 </div>
 

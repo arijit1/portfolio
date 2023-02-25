@@ -10923,12 +10923,10 @@ textarea.form-control-lg {
 .campanies__logo-box img:hover {
   height: 110%;
 }
-.companyBox{
-  padding: 10px;
-  width: 25%;
-}
+
 
 .services {
+  margin-top: 7.5rem;
   position: relative;
   padding: 1rem 0;
 }
@@ -11009,6 +11007,7 @@ textarea.form-control-lg {
 }
 
 .portfolio {
+  margin-top: 5rem;
   padding: 4rem 0;
 }
 .portfolio button {

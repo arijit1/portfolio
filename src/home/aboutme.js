@@ -5,6 +5,7 @@ import cognizantLogo from './cognizantLogo.png';
 import oracle from './oracle.png';
 import amex from './americanexpress.png';
 import codeBlack from './styleTheme/images/arts/intro-section-illustration.png';
+import { FaLinkedin } from "react-icons/fa";
 
 const aboutMe = `
 Since beginning my journey as a Software Engineer Intern , 
@@ -23,10 +24,19 @@ export const AboutMe = () => {
                         <div class="col-md-6 intros text-start">
                             <h1 class="display-2">
                                 <span class="display-2--intro">Hey!, I'm Arijit</span>
-                                
+
                             </h1>
                             <h2><Home /></h2>
-                            <button type="button" onClick={()=>window.location.href = "https://www.linkedin.com/in/arijit-sengupta-/"} class="rounded-pill btn-rounded">Get in Touch</button>
+                            <button type="button" class="rounded-pill btn-rounded">
+                                Get in Touch
+                                <span className="contactMe">
+                                    <a class="button" href="https://www.linkedin.com/in/arijit-sengupta-/">
+                                        <i style={{ 'font-size': '5rem', 'color': '#0072b1' }}>
+                                            <FaLinkedin />
+                                        </i>
+                                    </a>
+                                </span>
+                            </button>
                         </div>
 
                         <div class="col-md-6 intros text-end">
@@ -89,24 +99,27 @@ export const AboutMe = () => {
 
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4 col-lg-2 companyBox">
+                        <div class="col-sm-3 col-md-3 col-lg-2 companyBox">
+
+                        </div>
+                        <div class="col-sm-3 col-md-3 col-lg-2 companyBox">
                             <div class="campanies__logo-box shadow-sm">
-                                <img src={softSuaveLogo} alt="Campany 1 logo" title="Campany 1 Logo" class="img-fluid" />
+                                <img src={softSuaveLogo} alt="softSuaveLogo" title="Soft Suave Logo" class="img-fluid" />
                             </div>
                         </div>
-                        <div class="col-md-4 col-lg-2 companyBox">
+                        <div class="col-sm-3 col-md-3 col-lg-2 companyBox">
                             <div class="campanies__logo-box shadow-sm">
-                                <img src={cognizantLogo} alt="Campany 2 logo" title="Campany 2 Logo" class="img-fluid" />
+                                <img src={cognizantLogo} alt="cognizantLogo" title="Cognizant" class="img-fluid" />
                             </div>
                         </div>
-                        <div class="col-md-4 col-lg-2 companyBox">
+                        <div class="col-sm-3  col-md-3 col-lg-2 companyBox">
                             <div class="campanies__logo-box shadow-sm">
-                                <img src={oracle} alt="Campany 3 logo" title="Campany 3 Logo" class="img-fluid" />
+                                <img src={oracle} alt="oracle" title="Oracle" class="img-fluid" />
                             </div>
                         </div>
-                        <div class="col-md-4 col-lg-2 companyBox">
+                        <div class="col-sm-3 col-md-3 col-lg-2 companyBox">
                             <div class="campanies__logo-box shadow-sm">
-                                <img src={amex} alt="Campany 4 logo" title="Campany 4 Logo" class="img-fluid" />
+                                <img src={amex} alt="amex" title="American Express" class="img-fluid" />
                             </div>
                         </div>
                     </div>

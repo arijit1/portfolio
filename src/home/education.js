@@ -26,19 +26,7 @@ export function Education() {
                                 </svg>Present</p>
                                 <div className="card-text">
                                     <ul>
-                                        <li>Full Stack Developer</li>
-                                        <li>Implement New Product Launches Using React Framework and Redux State Management Library. And maintain backend flow using Node.js.</li>
-                                        <li>Executed Node 16 Migration from Node 12 version.</li>
-                                        <li>Maintain code quality by writing unit test cases using Jest. Cross Communication with different dependent teams.</li>
-                                        <li>Write Automation Scripts using Gherkin Language and XPaths.</li>
-                                        <li>Sound Understanding of CI/CD Pipeline and Jenkin Jobs with XLR templates.</li>
-                                        {/* <li>Contractor to American Express as a Frontend(React) Developer. Directly work with market to understand the requirement and implement.</li>
-                                        <li>Contributed working on new product launches for American Express UK market.</li>
-                                        <li>Build the Frontend of the application with React framework.</li>
-                                        <li>Collaborated with other team, to understand the existing implementation.</li>
-                                        <li>Worked for SNR(Save and Retrieve) services for American Express Cards.</li>
-                                        <li>Worked with marketing teams to build there campaign in Application using React Tech.</li>
-                                        <li>Contribute on Architect planning and participate on sprint planning.</li> */}
+                                        <li>Working as an Full Stack Developer.</li>
                                     </ul>
                                 </div>
                             </div>
@@ -86,12 +74,10 @@ export function Education() {
                                 </svg> 1 Year</p>
                                 <div className="card-text">
                                     <ul>
-                                        <li>Full Stack Developer</li>
-                                        <li>Implement New Product Launches Using React Framework and Redux State Management Library. And maintain backend flow using Node.js.</li>
-                                        <li>Executed Node 16 Migration from Node 12 version.</li>
-                                        <li>Maintain code quality by writing unit test cases using Jest. Cross Communication with different dependent teams.</li>
-                                        <li>Write Automation Scripts using Gherkin Language and XPaths.</li>
-                                        <li>Sound Understanding of CI/CD Pipeline and Jenkin Jobs with XLR templates.</li>
+                                        <li>MERN Stack Developer</li>
+                                        <li>Worked for a Financial Corporation Client.</li>
+                                        <li>Worked on creating new product specific enhancements. Using MERN Stack development.</li>
+                                        <li>Worked on Architect planning and end to end execution.</li>
                                         {/* <li>Contractor to American Express as a Frontend(React) Developer. Directly work with market to understand the requirement and implement.</li>
                                         <li>Contributed working on new product launches for American Express UK market.</li>
                                         <li>Build the Frontend of the application with React framework.</li>

@@ -31,6 +31,11 @@
     animation-direction: alternate;
     color: white;
   }
+  @media (max-width: 600px){
+    .contactMe > i{
+      font-size: '18px',
+    }
+  }
 
   .projects>.row {
     border: 2px solid rgb(3, 24, 80);
@@ -60,13 +65,22 @@
   color: rgb(5, 11, 63);
   ;
 }
-
+.Education-page {
+  margin-top: 4rem;
+}
 .Education-page>.card {
-  border: 1px solid rgba(255, 166, 0, 0.767);
+  border: 2px solid rgb(255, 166, 0);
   width: 50rem;
   margin: 10px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   margin-top: 100px;
+}
+
+.wrapper_techstack{
+  margin-top: 5rem;
+  color: black;
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .footer {
@@ -136,4 +150,8 @@
   50%{
     border-color: blue;
   }
+}
+
+.contactMe{
+  padding: 2px;
 }

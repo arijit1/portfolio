@@ -1,19 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d6deffc8.css",
-    "main.js": "/portfolio/static/js/main.58d3c3a8.js",
+    "main.css": "/portfolio/static/css/main.e6e239fc.css",
+    "main.js": "/portfolio/static/js/main.ae6b91a3.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/BluetoothControlCar.png": "/portfolio/static/media/BluetoothControlCar.ab586e580fa174004728.png",
+    "static/media/FakeNews.png": "/portfolio/static/media/FakeNews.c8d3ca311695f2797d53.png",
+    "static/media/PERN.png": "/portfolio/static/media/PERN.788e011f04afcad812e0.png",
     "static/media/kiitLogo.png": "/portfolio/static/media/kiitLogo.4782fc8aaf302beccccf.png",
-    "static/media/profilePic.png": "/portfolio/static/media/profilePic.28448cc94297ecaf87c5.png",
     "static/media/cognizantLogo.png": "/portfolio/static/media/cognizantLogo.7347ef0d95d8820022ce.png",
+    "static/media/oracle.png": "/portfolio/static/media/oracle.64263164c2028aac24c6.png",
     "static/media/softSuaveLogo.png": "/portfolio/static/media/softSuaveLogo.067e7307bde2091d06a2.png",
+    "static/media/profile.jpeg": "/portfolio/static/media/profile.ea523472287f68e4dedc.jpeg",
+    "static/media/americanexpress.png": "/portfolio/static/media/americanexpress.32207ba13fe6bcb80e12.png",
+    "static/media/MERN.png": "/portfolio/static/media/MERN.14d9d69d3a60b3230207.png",
+    "static/media/docsehelp.png": "/portfolio/static/media/docsehelp.54b04454e0ba95fb4e12.png",
+    "static/media/intro-section-illustration.png": "/portfolio/static/media/intro-section-illustration.fc209d35b4456faefb01.png",
+    "static/media/service-2.png": "/portfolio/static/media/service-2.7010500eff3a74e540d2.png",
+    "static/media/service-1.png": "/portfolio/static/media/service-1.59f90140f1085c33d923.png",
+    "static/media/service-3.png": "/portfolio/static/media/service-3.57f899bfdd8a29d299e5.png",
     "index.html": "/portfolio/index.html",
-    "main.d6deffc8.css.map": "/portfolio/static/css/main.d6deffc8.css.map",
-    "main.58d3c3a8.js.map": "/portfolio/static/js/main.58d3c3a8.js.map",
+    "main.e6e239fc.css.map": "/portfolio/static/css/main.e6e239fc.css.map",
+    "main.ae6b91a3.js.map": "/portfolio/static/js/main.ae6b91a3.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6deffc8.css",
-    "static/js/main.58d3c3a8.js"
+    "static/css/main.e6e239fc.css",
+    "static/js/main.ae6b91a3.js"
   ]
 }
