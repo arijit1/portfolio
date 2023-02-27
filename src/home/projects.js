@@ -68,7 +68,8 @@ export const Skills = () => {
                                 <img src={docsehelp} alt="portfolio 1 image" title="portfolio 1 picture" class="img-fluid" />
                                 <div class="portfolio-info">
                                     <div class="caption">
-                                        <h4>5G HACKATHON</h4>
+                                        <h4>5G HACKATHON by India Govt.</h4>
+                                        <p>Selected in top 100 Winners.</p>
                                         <p>Developed a working prototype for an 5G Healthcare Idea using Python as Backend and Reactjs as Frontend.</p>
                                     </div>
                                 </div>
