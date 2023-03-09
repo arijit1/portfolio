@@ -5,7 +5,7 @@ import cognizantLogo from './cognizantLogo.png';
 import oracle from './oracle.png';
 import amex from './americanexpress.png';
 import codeBlack from './styleTheme/images/arts/intro-section-illustration.png';
-import { FaLinkedin } from "react-icons/fa";
+import { FaLinkedin, FaCodeBranch } from "react-icons/fa";
 
 const aboutMe = `
 Since beginning my journey as a Software Engineer Intern , 
@@ -31,8 +31,19 @@ export const AboutMe = () => {
                                 Get in Touch
                                 <span className="contactMe">
                                     <a class="button" href="https://www.linkedin.com/in/arijit-sengupta-/">
-                                        <i style={{ 'font-size': '5rem', 'color': '#0072b1' }}>
+                                        <i style={{ 'font-size': '4rem', 'color': '#0072b1' }}>
                                             <FaLinkedin />
+                                        </i>
+                                    </a>
+                                </span>
+                            </button>
+                            <br/>
+                            <button type="button" class="rounded-pill btn-rounded">
+                                View My Github
+                                <span className="contactMe">
+                                    <a class="button" href="https://github.com/arijit1">
+                                        <i style={{ 'font-size': '4rem', 'color': '#000000' }}>
+                                            <FaCodeBranch />
                                         </i>
                                     </a>
                                 </span>
