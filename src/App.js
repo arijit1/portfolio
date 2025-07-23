@@ -1,12 +1,12 @@
 
 import './App.css';
-import Navbar from './home/navbar';
+import BlueTheme from './blue-theme/index.js';
 
 
 function App() {
   return (
     <div className="App">
-        <Navbar />
+        <BlueTheme />
     </div>
   );
 }
