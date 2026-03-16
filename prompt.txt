@@ -1,0 +1,14 @@
+Task : Revamp the project.
+
+Context: 
+- This is my personal portfolio.
+- I want to redesign it as per latest modern figma styles.
+- I want good animation
+- It should support mobile,tablet,desktop responsivness.
+- Do not change any content. Just modify styling and desiging.
+- Ask relevant question when in ambiguity.
+- <App/> renders <BlueTheme /> and it is the starting component. And then there are multiple component imports.
+
+Architecture:
+- this is reactjs project.
+- this project is hosted on github pages
